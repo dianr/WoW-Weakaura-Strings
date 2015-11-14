@@ -13,3 +13,13 @@ Inspired by Mack2887 Holy Power Bar, with additional features to my liking:
 - 5 Separate Active and Inactive Holy Power Bar
 - Custom animation when holy power are generated.
 - Added indicator when Divine Purpose is trigerred.
+
+
+**Paladin Seraphim**
+
+I don't know the creator, found it somewhere:
+
+- In/Out Combat Color Transparency
+- Duration Bar
+- Cooldown Bar
+- Action Usable Notification
